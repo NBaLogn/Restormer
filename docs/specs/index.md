@@ -11,6 +11,5 @@ This folder contains the **project-level specifications** for this repository.
 
 ## Source-of-truth note
 
-The repo also contains a Kiro feature spec bundle under `.kiro/specs/restormer-image-restoration/`.
-This `docs/specs/` folder is the **human-facing, repo-standard** home for the same information.
+This `docs/specs/` folder is the **authoritative** home for project specifications, traceable to the `demo.py` CLI behavior.
 
